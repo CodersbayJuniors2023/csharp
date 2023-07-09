@@ -1,0 +1,15 @@
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/bin/Debug/net7.0/HelloCSWorld
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/bin/Debug/net7.0/HelloCSWorld.deps.json
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/bin/Debug/net7.0/HelloCSWorld.runtimeconfig.json
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/bin/Debug/net7.0/HelloCSWorld.dll
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/bin/Debug/net7.0/HelloCSWorld.pdb
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.csproj.AssemblyReference.cache
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.AssemblyInfoInputs.cache
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.AssemblyInfo.cs
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.csproj.CoreCompileInputs.cache
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.dll
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/refint/HelloCSWorld.dll
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.pdb
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/HelloCSWorld.genruntimeconfig.cache
+/home/lukas/RiderProjects/HelloCSWorld/HelloCSWorld/obj/Debug/net7.0/ref/HelloCSWorld.dll
