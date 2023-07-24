@@ -24,7 +24,6 @@ C:\Users\lukas\RiderProjects\HelloRestAPI\obj\Debug\net7.0\refint\HelloRestAPI.d
 C:\Users\lukas\RiderProjects\HelloRestAPI\obj\Debug\net7.0\HelloRestAPI.pdb
 C:\Users\lukas\RiderProjects\HelloRestAPI\obj\Debug\net7.0\HelloRestAPI.genruntimeconfig.cache
 C:\Users\lukas\RiderProjects\HelloRestAPI\obj\Debug\net7.0\ref\HelloRestAPI.dll
-C:\Users\lukas\RiderProjects\HelloRestAPI\bin\Debug\net7.0\JsonToEntityClass.dll
 C:\Users\lukas\RiderProjects\HelloRestAPI\obj\Debug\net7.0\HelloRestAPI.csproj.CopyComplete
 C:\Users\lukas\RiderProjects\HelloRestAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\lukas\RiderProjects\HelloRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll

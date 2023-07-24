@@ -41,10 +41,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "JsonSerializer": {
-              "target": "Package",
-              "version": "[1.0.5, )"
-            },
             "Microsoft.OpenApi": {
               "target": "Package",
               "version": "[1.6.5, )"

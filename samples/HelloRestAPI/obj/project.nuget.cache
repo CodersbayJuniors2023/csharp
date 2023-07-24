@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "OHWTB7vAaz6bLBhEXkiQ/p3UZCrS/hj79YUqalyX3JqwGNBqkVB8MfaaMdWFnkPefGAX0LwEqfX9zWtxu8582A==",
+  "dgSpecHash": "+wjvBh6qgnDdg/vet1hyG4oxSw0m6BIKqR0bji/RJHwhYKd0wx0JHlrPL5IyzdHo3TBmhxTTXLXc8IIk5suCvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lukas\\RiderProjects\\HelloRestAPI\\HelloRestAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lukas\\.nuget\\packages\\jsonserializer\\1.0.5\\jsonserializer.1.0.5.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.openapi\\1.6.5\\microsoft.openapi.1.6.5.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
@@ -12,16 +11,5 @@
     "C:\\Users\\lukas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'JsonSerializer 1.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "JsonSerializer",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

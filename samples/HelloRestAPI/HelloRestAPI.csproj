@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="JsonSerializer" Version="1.0.5" />
       <PackageReference Include="Microsoft.OpenApi" Version="1.6.5" />
       <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     </ItemGroup>

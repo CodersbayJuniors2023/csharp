@@ -1,4 +1,3 @@
-using System.Text.Json;
 using HelloRestAPI.controller;
 using Microsoft.OpenApi.Models;
 
@@ -21,26 +20,23 @@ app.UseSwaggerUI(option =>
     option.RoutePrefix = string.Empty;
 });
 
-// app.MapGet("/", () => "Hello World!");
+app.MapGet("/orange", () => Results.Json(fruitController.GetOrange()));
+app.MapPost("/apple", () => Results.Json(fruitController.GetApple()));
+app.MapGet("/pear", () => Results.Json(fruitController.GetPear()));
+app.MapGet("/fruits", () => Results.Json(fruitController.GetFruits()));
 
-// use middleware to set content type for avoiding code duplication
-app.Use(async (context, next) =>
+// parameter example
+app.MapGet("/fruits/{fruitName}", (string fruitName) =>
 {
-    context.Response.Headers.Add("Content-Type", "application/json; charset=utf-8");
-    await next.Invoke();
+    foreach (var f in fruitController.GetFruits())
+    {
+        if (f.Name.Equals(fruitName))
+        {
+            return Results.Json(f);
+        }
+    }
+    
+    return Results.NotFound($"No fruit with name '{fruitName}' was found."); 
 });
-
-app.MapGet("/orange", () => JsonSerializer.Serialize(fruitController.GetOrange()));
-app.MapPost("/apple", () => JsonSerializer.Serialize(fruitController.GetApple()));
-app.MapGet("/pear", () => JsonSerializer.Serialize(fruitController.GetPear()));
-app.MapGet("/fruits", () => JsonSerializer.Serialize(fruitController.GetFruits()));
-
-/* set application context in method
-app.MapGet("/orange", (HttpContext httpContext) =>
-{
-    httpContext.Response.Headers.Add("Content-Type", "application/json; charset=utf-8");
-    return JsonSerializer.Serialize(fruitController.GetOrange());
-});
-*/
 
 app.Run();
