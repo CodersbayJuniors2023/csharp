@@ -1,0 +1,14 @@
+C:\Users\lukas\source\repos\HelloLinq\bin\Debug\net7.0\HelloLinq.exe
+C:\Users\lukas\source\repos\HelloLinq\bin\Debug\net7.0\HelloLinq.deps.json
+C:\Users\lukas\source\repos\HelloLinq\bin\Debug\net7.0\HelloLinq.runtimeconfig.json
+C:\Users\lukas\source\repos\HelloLinq\bin\Debug\net7.0\HelloLinq.dll
+C:\Users\lukas\source\repos\HelloLinq\bin\Debug\net7.0\HelloLinq.pdb
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.AssemblyInfo.cs
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.dll
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\refint\HelloLinq.dll
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.pdb
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\HelloLinq.genruntimeconfig.cache
+C:\Users\lukas\source\repos\HelloLinq\obj\Debug\net7.0\ref\HelloLinq.dll
